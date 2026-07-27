@@ -1,0 +1,116 @@
+Survey ID,Date,Zipcode,Race/Ethnicity,Household Size,Home Built Before 1978,Children Under 6 in Household,Pregnant Household Member,Household Member 65+,Reported Water Color/Clarity,Reported Water Odor,Taste Rating (1-5),Primary Water Source,Uses Home Water Filter,Filter Type,Overall Safety Concern Level,Contacted Philadelphia Water Dept,Materials Received,Notes
+WS-001,10-08-24,19104,Asian,2,Yes,No,No,No,Clear,Yes,4,Bottled Water,No,None,Low,No,Both,"Water pressure drops in evenings, unsure why."
+WS-002,11-12-24,19104,Native American,3,No,No,No,No,Clear,No,5,City Tap Water,Yes,Pitcher Filter (e.g. Brita),Low,No,Filter,"Recently replaced kitchen faucet filter, notices improvement."
+WS-003,01-14-25,19104,White,4,No,Yes,No,No,Clear,Yes,5,Bottled Water,Yes,Refrigerator Filter,Low,No,Both,"Uses bottled water for drinking, tap for cooking only."
+WS-004,02-11-25,19104,Some Other Race,6,Yes,Yes,No,No,Yellow Tint,Yes,3,City Tap Water,No,None,Moderate,No,Both,
+WS-005,10-08-24,19151,Two or More Races,2,No,No,No,Yes,Yellow Tint,No,4,City Tap Water,Yes,Refrigerator Filter,Low,No,Both,Reported rusty water only in the mornings.
+WS-006,11-12-24,19104,Hispanic or Latino,2,Unsure,Yes,Yes,No,Clear,Yes,4,City Tap Water,No,None,Moderate,No,Both,No concerns reported; satisfied with water quality.
+WS-007,01-14-25,19104,Black or African American,3,No,No,No,No,Clear,No,5,City Tap Water,No,None,Low,Yes,Educational Material,Landlord refused to give lead certificate.
+WS-008,02-11-25,19104,White,6,No,No,No,Yes,Clear,No,2,City Tap Water,No,None,Low,No,Filter,"Recently replaced kitchen faucet filter, notices improvement."
+WS-009,10-08-24,19104,White,2,Unsure,No,No,No,Clear,Yes,4,City Tap Water,Yes,Pitcher Filter (e.g. Brita),Low,No,Educational Material,
+WS-010,11-12-24,19104,Asian,3,Unsure,No,No,No,Clear,Yes,4,City Tap Water,No,None,Low,No,Filter,"Resident distrustful of tap water in general, always buys bottled."
+WS-011,01-14-25,19104,White,3,Unsure,No,No,No,Clear,No,5,Filtered Tap Water,Yes,Pitcher Filter (e.g. Brita),Low,No,Filter,Reported brief boil water advisory affected the block in the fall.
+WS-012,02-11-25,19104,Black or African American,3,Unsure,Yes,No,No,Clear,Yes,4,Bottled Water,Yes,Faucet-Mounted Filter,High,No,Educational Material,
+WS-013,10-08-24,19104,Black or African American,3,No,No,No,No,Clear,No,4,City Tap Water,No,None,Moderate,No,Filter,"Water pressure drops in evenings, unsure why."
+WS-014,11-12-24,19104,Black or African American,2,Yes,No,No,No,Clear,Yes,4,Bottled Water,No,None,Low,No,Filter,Elderly resident concerned about lead due to home's age (pre-1950).
+WS-015,01-14-25,19104,White,1,No,No,No,No,Clear,No,2,Filtered Tap Water,No,None,Moderate,No,Educational Material,Reported rusty water only in the mornings.
+WS-016,02-11-25,19104,Two or More Races,1,No,Yes,Yes,No,Clear,Yes,5,Bottled Water,Yes,Refrigerator Filter,Low,No,Educational Material,Says water tastes fine but smells like chlorine right after running tap.
+WS-017,10-08-24,19104,Black or African American,2,Unsure,Yes,No,Yes,Yellow Tint,Yes,3,City Tap Water,No,None,Moderate,No,Educational Material,Asked for more info on how to request a free lead test kit.
+WS-018,11-12-24,19104,Black or African American,2,No,No,No,No,Clear,No,5,Bottled Water,Yes,Refrigerator Filter,Low,No,Filter,"Recently replaced kitchen faucet filter, notices improvement."
+WS-019,01-14-25,19104,Black or African American,1,No,Yes,No,Yes,Clear,No,5,City Tap Water,Yes,Refrigerator Filter,Low,No,Educational Material,
+WS-020,02-11-25,19104,Asian,3,No,No,No,No,Clear,Yes,3,City Tap Water,No,None,High,No,Both,No concerns reported; satisfied with water quality.
+WS-021,10-08-24,19104,White,5,No,No,No,Yes,Clear,Yes,4,City Tap Water,No,None,Low,No,Educational Material,Asked for more info on how to request a free lead test kit.
+WS-022,11-12-24,19104,White,2,Unsure,Yes,No,No,Clear,No,1,Bottled Water,No,None,Low,No,Both,Resident mentioned water looks worse after city work on the block.
+WS-023,01-14-25,19104,White,2,No,No,No,No,Brown/Rusty Tint,Yes,2,Bottled Water,No,None,Moderate,No,Both,
+WS-024,02-11-25,19151,White,4,No,Yes,No,No,Slightly Cloudy,No,5,City Tap Water,Yes,Refrigerator Filter,Low,No,Educational Material,Family boils water before giving it to infant.
+WS-025,10-08-24,19151,White,2,No,No,Yes,No,Slightly Cloudy,Yes,3,City Tap Water,No,None,Moderate,No,Both,"No major complaints, occasional cloudiness that clears after a minute."
+WS-026,11-12-24,19151,Asian,2,Unsure,No,No,No,Slightly Cloudy,No,3,City Tap Water,No,None,Moderate,Yes,Filter,"No major complaints, occasional cloudiness that clears after a minute."
+WS-027,01-14-25,19151,White,1,No,No,No,Yes,Clear,Yes,4,City Tap Water,No,None,High,No,Filter,Reported rusty water only in the mornings.
+WS-028,02-11-25,19153,White,2,No,No,No,No,Brown/Rusty Tint,Yes,3,City Tap Water,Yes,Faucet-Mounted Filter,Low,No,Educational Material,Resident mentioned water looks worse after city work on the block.
+WS-029,10-08-24,19153,Two or More Races,6,Unsure,No,No,No,Clear,No,4,City Tap Water,Yes,Whole-House Filter,Moderate,No,Filter,Asked for more info on how to request a free lead test kit.
+WS-030,11-12-24,19104,Black or African American,1,No,No,No,No,Yellow Tint,No,4,City Tap Water,Yes,Whole-House Filter,Low,No,Filter,"Water pressure drops in evenings, unsure why."
+WS-031,01-14-25,19104,Black or African American,4,No,No,No,No,Clear,Yes,4,City Tap Water,No,None,Low,No,Filter,"No major complaints, occasional cloudiness that clears after a minute."
+WS-032,02-11-25,19104,Asian,3,No,No,No,No,Slightly Cloudy,Yes,5,Bottled Water,Yes,Faucet-Mounted Filter,Moderate,No,Filter,"Water pressure drops in evenings, unsure why."
+WS-033,10-08-24,19104,White,1,Unsure,Yes,No,Yes,Clear,No,3,City Tap Water,No,None,Low,Yes,Both,
+WS-034,11-12-24,19104,Hispanic or Latino,3,No,Yes,No,No,Clear,Yes,5,Bottled Water,No,None,Moderate,No,Filter,Reported rusty water only in the mornings.
+WS-035,01-14-25,19104,Black or African American,1,No,No,No,No,Clear,No,5,City Tap Water,No,None,High,No,Educational Material,Says water tastes fine but smells like chlorine right after running tap.
+WS-036,02-11-25,19104,Black or African American,2,No,No,No,No,Clear,Yes,3,City Tap Water,Yes,Refrigerator Filter,Moderate,No,Filter,Mentioned a water main break down the street last winter.
+WS-037,10-08-24,19104,Black or African American,1,No,Yes,No,No,Clear,No,2,City Tap Water,Yes,Whole-House Filter,Low,No,Educational Material,Asked for more info on how to request a free lead test kit.
+WS-038,11-12-24,19104,White,6,Unsure,No,No,No,Clear,No,4,Filtered Tap Water,No,None,High,No,Both,
+WS-039,01-14-25,19131,Black or African American,2,Unsure,Yes,No,Yes,Clear,Yes,3,City Tap Water,No,None,Moderate,No,Filter,Resident mentioned water looks worse after city work on the block.
+WS-040,02-11-25,19131,Black or African American,2,No,Yes,No,No,Brown/Rusty Tint,Yes,4,City Tap Water,Yes,Whole-House Filter,Low,No,Filter,
+WS-041,10-08-24,19131,Black or African American,2,No,Yes,No,No,Clear,No,5,Filtered Tap Water,Yes,Whole-House Filter,Moderate,No,Both,Family boils water before giving it to infant.
+WS-042,11-12-24,19131,Black or African American,6,No,No,No,No,Clear,Yes,1,City Tap Water,No,None,Moderate,No,Filter,Mentioned a water main break down the street last winter.
+WS-043,01-14-25,19131,Black or African American,5,No,No,Yes,No,Clear,No,4,City Tap Water,No,None,Low,No,Both,"Resident distrustful of tap water in general, always buys bottled."
+WS-044,02-11-25,19131,Some Other Race,4,No,No,No,No,Clear,Yes,5,City Tap Water,No,None,High,No,Both,
+WS-045,10-08-24,19131,Black or African American,4,No,No,No,No,Clear,No,4,Filtered Tap Water,Yes,Pitcher Filter (e.g. Brita),Low,No,Both,No concerns reported; satisfied with water quality.
+WS-046,11-12-24,19131,White,5,No,No,No,Yes,Yellow Tint,Yes,4,City Tap Water,Yes,Whole-House Filter,High,No,Educational Material,Elderly resident concerned about lead due to home's age (pre-1950).
+WS-047,01-14-25,19131,Black or African American,5,No,No,No,No,Slightly Cloudy,Yes,4,City Tap Water,No,None,Moderate,No,Both,Says water tastes fine but smells like chlorine right after running tap.
+WS-048,02-11-25,19131,Some Other Race,4,No,No,No,No,Clear,No,3,City Tap Water,Yes,Faucet-Mounted Filter,Low,No,Both,"No major complaints, occasional cloudiness that clears after a minute."
+WS-049,10-08-24,19131,Black or African American,3,Unsure,No,No,No,Brown/Rusty Tint,No,5,City Tap Water,Yes,Refrigerator Filter,Low,No,Both,Reported brief boil water advisory affected the block in the fall.
+WS-050,11-12-24,19131,Black or African American,2,No,Yes,Yes,No,Brown/Rusty Tint,Yes,4,City Tap Water,No,None,Moderate,No,Both,"Uses bottled water for drinking, tap for cooking only."
+WS-051,01-14-25,19131,Black or African American,2,Yes,No,No,No,Clear,Yes,1,City Tap Water,No,None,Low,No,Filter,Family boils water before giving it to infant.
+WS-052,02-11-25,19131,Black or African American,4,Unsure,No,No,No,Clear,No,3,City Tap Water,No,None,Low,Yes,Educational Material,"Resident distrustful of tap water in general, always buys bottled."
+WS-053,10-08-24,19139,Black or African American,4,No,No,No,No,Clear,Yes,3,City Tap Water,No,None,Moderate,No,Filter,"Water pressure drops in evenings, unsure why."
+WS-054,11-12-24,19139,Black or African American,2,No,No,No,Yes,Clear,No,2,City Tap Water,No,None,Low,No,Filter,Landlord has not replaced old pipes; resident unsure of pipe material.
+WS-055,01-14-25,19139,Black or African American,1,Yes,No,No,Yes,Clear,Yes,4,Bottled Water,No,None,Low,No,Educational Material,Reported rusty water only in the mornings.
+WS-056,02-11-25,19139,Black or African American,6,Yes,No,No,No,Clear,No,4,City Tap Water,No,None,Low,No,Educational Material,Reported brief boil water advisory affected the block in the fall.
+WS-057,10-08-24,19139,Black or African American,3,Yes,No,No,Yes,Clear,Yes,5,City Tap Water,No,None,High,No,Educational Material,Landlord has not replaced old pipes; resident unsure of pipe material.
+WS-058,11-12-24,19139,Black or African American,1,No,No,No,No,Brown/Rusty Tint,Yes,3,City Tap Water,Yes,Refrigerator Filter,High,No,Filter,
+WS-059,01-14-25,19139,Black or African American,2,No,Yes,No,Yes,Clear,No,5,Bottled Water,Yes,Faucet-Mounted Filter,Low,No,Educational Material,"Recently replaced kitchen faucet filter, notices improvement."
+WS-060,02-11-25,19139,Native Hawaiian and Other Pacific Islander,6,No,Yes,No,Yes,Clear,No,3,City Tap Water,Yes,Pitcher Filter (e.g. Brita),Low,No,Both,
+WS-061,10-08-24,19153,White,2,Unsure,No,No,No,Clear,Yes,3,City Tap Water,No,None,Low,No,Both,"Recently replaced kitchen faucet filter, notices improvement."
+WS-062,11-12-24,19139,Hispanic or Latino,1,No,No,No,No,Clear,Yes,3,Filtered Tap Water,Yes,Refrigerator Filter,Moderate,No,Both,Landlord has not replaced old pipes; resident unsure of pipe material.
+WS-063,01-14-25,19139,Black or African American,1,No,No,No,Yes,Clear,No,3,Filtered Tap Water,Yes,Pitcher Filter (e.g. Brita),Low,No,Educational Material,No concerns reported; satisfied with water quality.
+WS-064,02-11-25,19139,Black or African American,6,Unsure,No,No,No,Slightly Cloudy,Yes,5,City Tap Water,Yes,Whole-House Filter,Low,No,Both,Elderly resident concerned about lead due to home's age (pre-1950).
+WS-065,10-08-24,19139,Black or African American,2,No,No,No,No,Clear,No,5,City Tap Water,No,None,Moderate,No,Filter,
+WS-066,11-12-24,19139,Black or African American,1,Yes,No,No,No,Clear,Yes,5,Filtered Tap Water,No,None,Low,No,Educational Material,Says water tastes fine but smells like chlorine right after running tap.
+WS-067,01-14-25,19139,Black or African American,3,Unsure,No,No,No,Clear,No,4,City Tap Water,No,None,Low,No,Filter,Reported rusty water only in the mornings.
+WS-068,02-11-25,19139,Black or African American,4,Unsure,Yes,No,No,Clear,No,4,Filtered Tap Water,No,None,Low,No,Filter,Mentioned a water main break down the street last winter.
+WS-069,10-08-24,19139,Black or African American,2,Yes,No,No,No,Clear,Yes,5,Bottled Water,No,None,Moderate,No,Both,No concerns reported; satisfied with water quality.
+WS-070,11-12-24,19139,Black or African American,4,No,No,No,No,Slightly Cloudy,Yes,3,City Tap Water,Yes,Faucet-Mounted Filter,Moderate,No,Both,Reported brief boil water advisory affected the block in the fall.
+WS-071,01-14-25,19139,Black or African American,5,No,Yes,No,Yes,Brown/Rusty Tint,No,5,Bottled Water,No,None,Moderate,No,Educational Material,"No major complaints, occasional cloudiness that clears after a minute."
+WS-072,02-11-25,19139,Black or African American,6,No,No,No,Yes,Clear,Yes,4,City Tap Water,No,None,Low,No,Both,Family boils water before giving it to infant.
+WS-073,10-08-24,19139,Black or African American,1,Yes,No,No,No,Clear,No,4,City Tap Water,No,None,Low,No,Educational Material,
+WS-074,11-12-24,19139,White,1,No,No,No,Yes,Clear,Yes,3,City Tap Water,Yes,Pitcher Filter (e.g. Brita),High,Yes,Both,Reported brief boil water advisory affected the block in the fall.
+WS-075,01-14-25,19139,Black or African American,4,Unsure,No,No,No,Clear,No,4,City Tap Water,No,None,High,No,Filter,No concerns reported; satisfied with water quality.
+WS-076,02-11-25,19139,Black or African American,2,Unsure,Yes,No,No,Clear,Yes,5,City Tap Water,Yes,Refrigerator Filter,Moderate,No,Filter,Landlord has not replaced old pipes; resident unsure of pipe material.
+WS-077,10-08-24,19139,Native Hawaiian and Other Pacific Islander,3,No,No,No,No,Clear,Yes,4,City Tap Water,No,None,Low,Yes,Filter,Elderly resident concerned about lead due to home's age (pre-1950).
+WS-078,11-12-24,19139,Black or African American,4,No,No,No,No,Slightly Cloudy,No,4,City Tap Water,No,None,Moderate,No,Educational Material,Resident mentioned water looks worse after city work on the block.
+WS-079,01-14-25,19139,Black or African American,1,No,No,No,No,Clear,No,3,City Tap Water,No,None,Low,No,Educational Material,"Uses bottled water for drinking, tap for cooking only."
+WS-080,02-11-25,19139,Black or African American,3,Unsure,Yes,No,No,Brown/Rusty Tint,Yes,3,Filtered Tap Water,Yes,Whole-House Filter,High,No,Educational Material,Asked for more info on how to request a free lead test kit.
+WS-081,10-08-24,19139,Hispanic or Latino,3,Yes,No,No,No,Clear,Yes,3,Filtered Tap Water,No,None,Moderate,No,Educational Material,"Resident distrustful of tap water in general, always buys bottled."
+WS-082,11-12-24,19139,Black or African American,2,Yes,No,No,No,Yellow Tint,No,4,Bottled Water,No,None,Moderate,No,Filter,No concerns reported; satisfied with water quality.
+WS-083,01-14-25,19139,Black or African American,3,Unsure,Yes,No,No,Clear,Yes,3,City Tap Water,Yes,Whole-House Filter,Low,No,Educational Material,Family boils water before giving it to infant.
+WS-084,02-11-25,19142,Black or African American,1,Unsure,No,No,No,Clear,No,1,Filtered Tap Water,No,None,High,No,Both,Reported brief boil water advisory affected the block in the fall.
+WS-085,10-08-24,19142,Black or African American,1,Unsure,No,No,No,Slightly Cloudy,Yes,4,City Tap Water,Yes,Whole-House Filter,Low,No,Filter,"Uses bottled water for drinking, tap for cooking only."
+WS-086,11-12-24,19143,Black or African American,6,Unsure,No,No,No,Brown/Rusty Tint,No,3,Filtered Tap Water,Yes,Whole-House Filter,Moderate,Yes,Both,Reported brief boil water advisory affected the block in the fall.
+WS-087,01-14-25,19143,Black or African American,3,No,No,No,No,Clear,Yes,4,City Tap Water,No,None,Low,No,Filter,
+WS-088,02-11-25,19143,Black or African American,2,Yes,No,No,No,Clear,Yes,3,City Tap Water,No,None,Low,No,Filter,
+WS-089,10-08-24,19143,Black or African American,4,No,No,No,No,Slightly Cloudy,No,4,Bottled Water,No,None,High,No,Filter,Elderly resident concerned about lead due to home's age (pre-1950).
+WS-090,11-12-24,19143,Black or African American,2,No,No,No,Yes,Slightly Cloudy,No,3,City Tap Water,No,None,Low,No,Both,
+WS-091,01-14-25,19143,Black or African American,3,No,No,No,Yes,Clear,Yes,1,Bottled Water,Yes,Faucet-Mounted Filter,Low,No,Both,
+WS-092,02-11-25,19143,Two or More Races,3,No,Yes,No,Yes,Clear,Yes,3,City Tap Water,No,None,High,No,Filter,Elderly resident concerned about lead due to home's age (pre-1950).
+WS-093,10-08-24,19143,Black or African American,3,No,No,No,No,Clear,No,3,City Tap Water,No,None,Moderate,No,Both,"Resident distrustful of tap water in general, always buys bottled."
+WS-094,11-12-24,19143,Black or African American,2,No,No,Yes,No,Clear,Yes,4,City Tap Water,No,None,Moderate,Yes,Educational Material,Family boils water before giving it to infant.
+WS-095,01-14-25,19143,Black or African American,4,No,No,No,No,Slightly Cloudy,No,4,Filtered Tap Water,Yes,Whole-House Filter,Moderate,No,Educational Material,No concerns reported; satisfied with water quality.
+WS-096,02-11-25,19143,Black or African American,3,Unsure,No,No,Yes,Yellow Tint,Yes,5,Filtered Tap Water,Yes,Pitcher Filter (e.g. Brita),Moderate,No,Educational Material,Landlord has not replaced old pipes; resident unsure of pipe material.
+WS-097,10-08-24,19143,Black or African American,2,Yes,No,No,No,Clear,No,3,City Tap Water,No,None,Low,No,Filter,
+WS-098,11-12-24,19143,Black or African American,2,Yes,Yes,No,No,Clear,No,5,City Tap Water,No,None,Low,No,Both,Elderly resident concerned about lead due to home's age (pre-1950).
+WS-099,01-14-25,19143,Black or African American,4,No,No,No,No,Clear,Yes,3,City Tap Water,No,None,Moderate,No,Both,Reported rusty water only in the mornings.
+WS-100,02-11-25,19143,Asian,5,Yes,Yes,No,Yes,Clear,Yes,4,City Tap Water,No,None,Moderate,No,Both,"Resident distrustful of tap water in general, always buys bottled."
+WS-101,10-08-24,19143,Black or African American,3,Unsure,Yes,No,No,Slightly Cloudy,No,5,City Tap Water,Yes,Pitcher Filter (e.g. Brita),Low,No,Filter,Says water tastes fine but smells like chlorine right after running tap.
+WS-102,11-12-24,19143,Black or African American,1,No,No,No,Yes,Yellow Tint,Yes,5,City Tap Water,No,None,High,Yes,Educational Material,
+WS-103,01-14-25,19143,White,6,No,No,No,No,Clear,No,1,Filtered Tap Water,No,None,Moderate,Yes,Both,"No major complaints, occasional cloudiness that clears after a minute."
+WS-104,02-11-25,19143,Black or African American,1,No,Yes,No,No,Slightly Cloudy,Yes,4,City Tap Water,Yes,Pitcher Filter (e.g. Brita),High,No,Filter,Asked for more info on how to request a free lead test kit.
+WS-105,10-08-24,19143,Black or African American,2,No,No,No,No,Yellow Tint,No,3,City Tap Water,Yes,Faucet-Mounted Filter,Moderate,No,Filter,Family boils water before giving it to infant.
+WS-106,11-12-24,19143,White,3,Unsure,Yes,No,Yes,Clear,Yes,3,City Tap Water,No,None,Low,No,Educational Material,"Recently replaced kitchen faucet filter, notices improvement."
+WS-107,01-14-25,19143,Two or More Races,2,No,No,No,No,Brown/Rusty Tint,Yes,1,City Tap Water,No,None,Low,No,Filter,Landlord has not replaced old pipes; resident unsure of pipe material.
+WS-108,02-11-25,19143,Black or African American,5,No,No,No,No,Clear,No,3,City Tap Water,No,None,Moderate,No,Educational Material,Asked for more info on how to request a free lead test kit.
+WS-109,10-08-24,19143,White,1,No,No,No,No,Brown/Rusty Tint,No,4,City Tap Water,Yes,Whole-House Filter,Moderate,No,Both,
+WS-110,11-12-24,19143,Black or African American,1,Yes,No,No,No,Slightly Cloudy,Yes,5,City Tap Water,No,None,Moderate,No,Both,Family boils water before giving it to infant.
+WS-111,01-14-25,19143,Black or African American,1,Yes,Yes,No,No,Yellow Tint,Yes,5,City Tap Water,Yes,Refrigerator Filter,High,No,Educational Material,Landlord has not replaced old pipes; resident unsure of pipe material.
+WS-112,02-11-25,,White,2,No,No,No,No,Clear,No,3,City Tap Water,Yes,Refrigerator Filter,Moderate,Yes,Both,Reported brief boil water advisory affected the block in the fall.
+,,,,,,,,,,Yes,,,,,,,,
+,,,,,,,,,,No,,,,,,,,
+,,,,,,,,,,Yes,,,,,,,,
