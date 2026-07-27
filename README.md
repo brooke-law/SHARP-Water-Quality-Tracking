@@ -1,2 +1,2 @@
-# SHARP-Water-Safety-Tracking
-This project was completed to track the water safety throughout Philadelphia, primarily, West Philadelphia neighborhoods
+# SHARP-Water-Quality-Tracking
+This project visualizes the water quality in West Philadelphia based on factors such as odor, taste, color. The data was collected through surveys completed by West Philadelphia residents over the course of 4 months. The primary goal of this project was to highlight the areas and populations most in need of water quality improvement resources (e.g. filters) and educational materials. 
