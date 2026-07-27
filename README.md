@@ -12,3 +12,35 @@ Visualize average water quality score based on zipcode
 Uncover correlations between vulnerable populations and water quality assessment
 
 Determine the most in need types of water improvemnet resources
+
+Stregnthen communnity connections
+
+## Methods
+### Tools used: 
+Google Sheets (for data collection)
+
+Power BI
+
+### Process: 
+Downloaded survey responses into a csv file
+
+Explored dataset
+
+Loaded dataset into Power BI
+
+Filtered to exclude rows if certain columns were blank
+
+Mapped water quality scores using ArcGIS visual tool
+
+Created charts to reveal correlations 
+
+## Results
+The findings found showed....In the end, our findings were used in combination with to apply for funding to supply residents with materials to address their water quality concerns. 
+
+## Usage
+### To Reproduce this Analysis: 
+Download the SHARP_water_quality_responses.csv
+
+Open SHARP_water_quality_dashboard 
+
+Utilize Power BI features to manipualte and observe the different water quality trends
