@@ -1,5 +1,9 @@
 # SHARP-Water-Quality-Tracking
 
+## Background
+
+Drexel SHARP (Sanitation Health Aid Relief Project) is an organization that focuses on bringing greater awareness and resources to those most at risk to struggle with sanitation and health related issues. The mission of the organization is to educate and uplift disenfranchised communities is advocating for healtiher living. 
+
 ## Overview
 This project visualizes the water quality in West Philadelphia based on factors such as odor, taste, color. The data was collected through surveys completed by West Philadelphia residents over the course of 4 months. The primary goal of this project is to highlight the areas and populations most in need of water quality improvement resources (e.g. filters) and educational materials. 
 
